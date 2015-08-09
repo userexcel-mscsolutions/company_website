@@ -1,0 +1,6 @@
+\\MyHD\Public\Software_and_Web_Development\MY PROJECTS\company_website\company_website\bin\company_website.dll.config
+\\MyHD\Public\Software_and_Web_Development\MY PROJECTS\company_website\company_website\bin\company_website.dll
+\\MyHD\Public\Software_and_Web_Development\MY PROJECTS\company_website\company_website\bin\company_website.pdb
+\\MyHD\Public\Software_and_Web_Development\MY PROJECTS\company_website\company_website\obj\Debug\company_website.csprojResolveAssemblyReference.cache
+\\MyHD\Public\Software_and_Web_Development\MY PROJECTS\company_website\company_website\obj\Debug\company_website.dll
+\\MyHD\Public\Software_and_Web_Development\MY PROJECTS\company_website\company_website\obj\Debug\company_website.pdb
